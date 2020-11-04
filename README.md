@@ -1,3 +1,3 @@
 # iperf3
 
-Docker container to run iperf3.
+iperf3 in a Docker container.
